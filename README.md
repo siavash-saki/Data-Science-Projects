@@ -10,6 +10,9 @@ These projects demonstarte different machine learning algorithms, both supervise
 * Predicting Internet Users Behaviors on Advertisements
 * Predicting Loan Repayment (Lending Club Data)
 
+**Deep Learning**
+* Predicting Loan Repayment (Lending Club Data)(ANN)
+
 **NLP**
 * Yelp Reviews Classification
 * Spam Detection
