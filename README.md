@@ -19,3 +19,4 @@ These projects demonstarte different machine learning algorithms, both supervise
 
 **Computer Vision**
 * Handwritten Digit Recognition
+* CIFAR-10 Photo Classification
