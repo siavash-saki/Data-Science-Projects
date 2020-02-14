@@ -21,3 +21,4 @@ These projects demonstarte different machine learning algorithms, both supervise
 * Handwritten Digit Recognition
 * CIFAR-10 Photo Classification
 * Fashion Dataset Image Classification
+* Malaria Parasite Detection in thin-blood smear images
